@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://aaron3963.github.io/sitemap.xml
