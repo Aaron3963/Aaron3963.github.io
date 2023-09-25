@@ -75,6 +75,6 @@ email: ''
 highlight_name: true
 ---
 
-Hello! I am Xueyan Shi, an junior undergraduate student at UCSD, currently studying CS and Cognitive science. Welcome to my website!
+Hello! I am Xueyan Shi, a junior undergraduate student at UCSD, currently studying CS and Cognitive science. Welcome to my website!
 
 {style="text-align: justify;"}
