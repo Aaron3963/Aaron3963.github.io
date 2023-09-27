@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
  I participated in a blockchain competition where me and my team developed a blockchain powered platform for pet medical record tracking and sharing, ultimately securing first place and winning $15000 in Franklin Templeton’s 2023 Blockchain Contest. 
