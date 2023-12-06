@@ -1,6 +1,6 @@
 ---
-title: Geisel Library Occupancy Analysis with Weather
-summary: A data science project aimed to discover trend of occupancy in Geisel Library of UCSD. Also tries to answer the question of weather's influence on people's will of coming to Libraries.
+title: Library Occupancy Analysis with Weather
+summary: A data science project aimed to discover trend of occupancy in Geisel and  WongAvery Library of UCSD. Also tries to answer the question of weather's influence on people's will of coming to Libraries.
 tags:
   - Data Science
   - Data visualization
