@@ -159,7 +159,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-264879531" class="chart">&lt;/div>
+&lt;div id="chart-746532918" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -168,7 +168,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-264879531', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-746532918', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -552,4 +552,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://Aaron3963.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Aaron3963.github.io/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://Aaron3963.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Aaron3963.github.io/admin/config.yml</guid><description/></item><item><title>Geisel Library Occupancy Analysis with Weather</title><link>https://Aaron3963.github.io/project/library-occupancy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Aaron3963.github.io/project/library-occupancy/</guid><description>&lt;p>I participated in a blockchain competition where me and my team developed a blockchain powered platform for pet medical record tracking and sharing, ultimately securing first place and winning $15000 in Franklin Templeton’s 2023 Blockchain Contest.&lt;/p>
+&lt;p>Without a unified system between owners, hospitals, and insurance providers, the reimbursement process for pets has been a tedious process with a lack of trust between the three parties. This project aims to fix the paperwork process of pet medical care and insurance using blockchain technology. We came up with a custom Solidity contract that provides cross-verification for pet owners, hospitals, and insurance companies.&lt;/p>
+&lt;p>The project runs on Polygon, a side-chain from Ethereum, which has all the characteristics of ETH with much cheaper costs. We utilized Node.js for backend development, MySQL for database management, and a React-based frontend, connected via REST API.&lt;/p>
+&lt;p>For more information, check out our code repository and presentation. We also have a project white paper available.&lt;/p></description></item></channel></rss>
