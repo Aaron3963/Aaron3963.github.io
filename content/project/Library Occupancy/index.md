@@ -23,7 +23,7 @@ links:
 url_code: 'https://github.com/Aaron3963/COGS-108-Project'
 # url_pdf: 
 # url_slides:
-# url_video: ''
+url_video: 'https://youtu.be/s202-BIAFj8'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
