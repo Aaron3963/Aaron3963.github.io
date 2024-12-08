@@ -16,6 +16,7 @@ sections:
     id: projects
     content:
       title: Projects
+      sort_by: 'weight'
       filters:
         folders:
           - project

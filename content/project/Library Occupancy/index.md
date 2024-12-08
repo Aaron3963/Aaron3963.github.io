@@ -1,5 +1,6 @@
 ---
 title: Library Occupancy Analysis with Weather
+weight: 10
 summary: A data science project aimed to discover trend of occupancy in Geisel and  WongAvery Library of UCSD. Also tries to answer the question of weather's influence on people's will of coming to libraries.
 tags:
   - Data Science
@@ -32,11 +33,3 @@ url_video: 'https://youtu.be/s202-BIAFj8'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
- I participated in a blockchain competition where me and my team developed a blockchain powered platform for pet medical record tracking and sharing, ultimately securing first place and winning $15000 in Franklin Templeton’s 2023 Blockchain Contest. 
- 
- Without a unified system between owners, hospitals, and insurance providers, the reimbursement process for pets has been a tedious process with a lack of trust between the three parties. This project aims to fix the paperwork process of pet medical care and insurance using blockchain technology. We came up with a custom Solidity contract that provides cross-verification for pet owners, hospitals, and insurance companies. 
- 
- The project runs on Polygon, a side-chain from Ethereum, which has all the characteristics of ETH with much cheaper costs. We utilized Node.js for backend development, MySQL for database management, and a React-based frontend, connected via REST API.
-
- For more information, check out our code repository and presentation. We also have a project white paper available.

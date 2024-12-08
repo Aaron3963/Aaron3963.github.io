@@ -26,8 +26,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Autonomous Vehicle
+  - Financial Engineering
+  - Algorithmic Trading
+  - Deep Learning
   - Data Science
 
 # Education to show in About widget
