@@ -7,7 +7,7 @@ tags:
   - Data visualization
   - Pandas
   - Seaborn 
-date: '2023-12-1T00:00:00Z'
+date: '2023-12-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://aaron3963.github.io/COGS-108-Project/'
@@ -25,11 +25,4 @@ url_code: 'https://github.com/Aaron3963/COGS-108-Project'
 # url_pdf: 
 # url_slides:
 url_video: 'https://youtu.be/s202-BIAFj8'
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
