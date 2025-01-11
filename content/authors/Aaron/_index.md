@@ -170,4 +170,4 @@ awards:
 
 ## About Me
 
-Hello! I am Aaron, a junior undergraduate student at UCSD, studying [Computer Science](https://cse.ucsd.edu/) and [Cognitive Science](https://cogsci.ucsd.edu/). I am currently applying for Financial Engineering graduate programs, as well as internships for summer 2025.
+Hello! I am Aaron, a senior undergraduate student at UCSD, studying [Computer Science](https://cse.ucsd.edu/) and [Cognitive Science](https://cogsci.ucsd.edu/). I am currently applying for Financial Engineering graduate programs, as well as internships for summer 2025.
