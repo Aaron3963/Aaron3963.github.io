@@ -23,7 +23,7 @@ main:
     url: projects/
     weight: 30
   - name: Schedule
-    url: Schedule/
+    url: schedule/
     weight: 40
   # - name: Teaching
   #   url: teaching/
