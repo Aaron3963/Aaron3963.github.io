@@ -55,9 +55,9 @@ interests:
 
 education:
   - area: MSc Quantitative and Computational Finance
-      institution: Georgia Institute of Technology
-      date_start: 2025-08-18
-      date_end: 2026-12-10
+    institution: Georgia Institute of Technology
+    date_start: 2025-08-18
+    date_end: 2026-12-10
 
   - area: BSc Computer Science
     institution: University of California, San Diego
