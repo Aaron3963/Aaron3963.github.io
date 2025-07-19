@@ -1,5 +1,5 @@
 ---
 title: "My Schedule"
 ---
-You can also view my schedule in fullscreen [here](https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FLos_Angeles&showPrint=0&mode=WEEK&src=eHVzaGlAdWNzZC5lZHU&color=%23039BE5).
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FLos_Angeles&showPrint=0&mode=WEEK&src=eHVzaGlAdWNzZC5lZHU&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+You can also view my schedule in fullscreen [here](https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=WEEK&title=Aaron's%20Schedule&src=YWFyb242NjY0NUBnbWFpbC5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=emgtY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043&color=%23c0ca33).
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=WEEK&title=Aaron's%20Schedule&src=YWFyb242NjY0NUBnbWFpbC5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=emgtY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043&color=%23c0ca33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
