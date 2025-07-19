@@ -54,6 +54,11 @@ interests:
   - Data Science
 
 education:
+  - area: MSc Quantitative and Computational Finance
+      institution: Georgia Institute of Technology
+      date_start: 2025-08-18
+      date_end: 2026-12-10
+
   - area: BSc Computer Science
     institution: University of California, San Diego
     date_start: 2021-09-20
@@ -170,4 +175,4 @@ awards:
 
 ## About Me
 
-Hello! I am Aaron, a senior undergraduate student at UCSD, studying [Computer Science](https://cse.ucsd.edu/) and [Cognitive Science](https://cogsci.ucsd.edu/). I am currently applying for Financial Engineering graduate programs, as well as internships for summer 2025.
+Hello! I'm Aaron, a graduate student at Georgia Tech, studying [Quantitative Finance](https://qcf.gatech.edu/). I completed my bachelor's degree in Computer Science and Cognitive Science at UCSD. I am currently applying for Financial Engineering internships for summer 2026.
