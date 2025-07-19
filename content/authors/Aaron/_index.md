@@ -64,7 +64,7 @@ education:
     date_start: 2021-09-20
     date_end: 2025-06-20
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.89/4.0
       
       Courses included:
       - Deep Learning, Natural Language Processing
