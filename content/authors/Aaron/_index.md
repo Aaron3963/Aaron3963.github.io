@@ -21,18 +21,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of California, San Diego
-    url: https://ucsd.edu/
+  - name: Georgia Institute of Technology
+    url: https://gatech.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: mailto:xushi@ucsd.edu
+    url: mailto: xshi316@gatech.edu
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -87,21 +87,21 @@ education:
 work:
   - position: AI Quantitative Research Intern
     company_name: HongDe Fund Ltd.
-    company_url: ''
+    company_url: https://www.hongdefund.com/
     company_logo: ''
     date_start: 2026-06-01
     date_end: 2026-08-01
 
   - position: Quantitative Analysis Intern
     company_name: Icarus Fund LLC.
-    company_url: ''
+    company_url: https://icarus-fund.com/
     company_logo: ''
     date_start: 2024-06-01
     date_end: 2024-08-01
     
   - position: Quantitative Trading Intern
     company_name: Orient Securities Co., Ltd.
-    company_url: ''
+    company_url: https://www.dfzq.com.cn/
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-08-01
@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Hello! I'm Aaron, a graduate student at Georgia Tech, studying [Quantitative Finance](https://qcf.gatech.edu/). I completed my bachelor's degree in Computer Science and Cognitive Science at UCSD. I am currently applying for Financial Engineering internships for summer 2026.
+Hello! I'm Aaron, a graduate student at Georgia Tech, studying [Quantitative Finance](https://qcf.gatech.edu/). I completed my bachelor's degree in Computer Science and Cognitive Science at UCSD. I am actively searching for opportunities in quantitative finance.
