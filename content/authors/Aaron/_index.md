@@ -32,7 +32,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: mailto: xshi316@gatech.edu
+    url: mailto:xshi316@gatech.edu
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
