@@ -85,6 +85,13 @@ education:
 
 
 work:
+  - position: AI Quantitative Research Intern
+    company_name: HongDe Fund Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-06-01
+    date_end: 2026-08-01
+
   - position: Quantitative Analysis Intern
     company_name: Icarus Fund LLC.
     company_url: ''
