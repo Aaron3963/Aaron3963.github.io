@@ -30,6 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
+      spacing:
+        padding: ["0", "0", "2rem", "0"]
+      
+
   - block: resume-experience
     content:
       username: Aaron

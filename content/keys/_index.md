@@ -2,7 +2,6 @@
 title: "My Public Keys"
 ---
 
-Me
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ81OGu9FeqooVGHFfdUKlIFTYjFjNfiPROSNBeEY6b9
 ```

@@ -87,7 +87,7 @@ education:
 work:
   - position: AI Quantitative Research Intern
     company_name: HongDe Fund Ltd.
-    company_url: https://www.hongdefund.com/
+    company_url: 'https://www.hongdefund.com/'
     company_logo: ''
     date_start: 2026-06-01
     date_end: 2026-08-01
