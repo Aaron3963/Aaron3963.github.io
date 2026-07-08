@@ -3,6 +3,7 @@ title: News Headline Based S&P500 Trading Strategy
 weight: 50
 summary: Used a custom transformer model and news headlines from various sources to make a trading strategy on S&P500. Back test results got 10% profit within 6 month.
 tags:
+  - Quant Research
   - Algorithmic Trading
   - Transformer
   - Sentiment Analysis
@@ -16,12 +17,11 @@ image:
   focal_point: Smart
 
 links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
+  - name: Full Project
+    url: https://aaron3963.github.io/CSE_151A_Project/
+
 url_code: 'https://github.com/Aaron3963/CSE_151A_Project'
-url_pdf: 'https://aaron3963.github.io/CSE_151A_Project/'
+# url_pdf: ''
 # url_slides:
 # url_video: 
 # Slides (optional).

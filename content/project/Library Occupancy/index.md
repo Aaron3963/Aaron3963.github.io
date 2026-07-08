@@ -17,10 +17,9 @@ image:
   focal_point: Smart
 
 links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
+  - name: Full Project
+    url: https://aaron3963.github.io/COGS-108-Project/
+
 url_code: 'https://github.com/Aaron3963/COGS-108-Project'
 # url_pdf: 
 # url_slides:
