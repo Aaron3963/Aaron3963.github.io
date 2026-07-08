@@ -5,7 +5,8 @@ summary: Used a custom transformer model and news headlines from various sources
 tags:
   - Quant Research
   - Algorithmic Trading
-  - Transformer
+  - PyTorch
+  - Scikit-learn
   - Sentiment Analysis
 date: '2024-12-06'
 

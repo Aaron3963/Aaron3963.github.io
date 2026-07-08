@@ -5,8 +5,9 @@ summary: An all-in-one backtesting pipeline that allows users to test simple alg
 tags:
   - Quant Development
   - Backtest
+  - Scikit-learn
   - Backtrader
-  - Python
+
 date: '2025-12-30'
 
 # Optional external URL for project (replaces project detail page).

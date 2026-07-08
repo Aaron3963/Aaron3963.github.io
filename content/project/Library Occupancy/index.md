@@ -5,8 +5,10 @@ summary: A data science project aimed to discover trend of occupancy in Geisel a
 tags:
   - Data Science
   - Data visualization
+  - Scikit-learn
   - Pandas
-  - Seaborn 
+  - Seaborn
+
 date: '2023-12-01'
 
 # Optional external URL for project (replaces project detail page).

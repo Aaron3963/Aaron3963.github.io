@@ -4,6 +4,9 @@ weight: 20
 summary: A blockchain powered platform for pet medical record tracking and sharing, ultimately securing first place and winning $15000 in Franklin Templeton’s 2023 Blockchain Contest.
 tags:
   - Block Chain
+  - Polygon
+  - MySQL
+  
 date: '2023-06-01'
 
 # Optional external URL for project (replaces project detail page).
