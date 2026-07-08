@@ -37,4 +37,4 @@ url_video: ''
  
  The project runs on Polygon, a side-chain from Ethereum, which has all the characteristics of ETH with much cheaper costs. We utilized Node.js for backend development, MySQL for database management, and a React-based frontend, connected via REST API.
 
- For more information, check out our code repository and presentation. We also have a project white paper available.
+ For more information, check out our [code repository](https://github.com/Aaron3963/PawPrints) and [presentation](https://docs.google.com/presentation/d/118LGFaszP6kukI__wXZHIxbJkW0p849pXG6Tow9E720/edit?usp=sharing). We also have a [project white paper](https://aaron3963.github.io/PawPrints/) available.
