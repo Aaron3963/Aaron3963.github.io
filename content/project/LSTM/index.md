@@ -1,5 +1,5 @@
 ---
-title: LSTM for Stock Price Prediction
+title: Attention LSTM for Stock Price Prediction
 weight: 10
 summary: Paper about combining LSTM with Self-Attention mechanism for predicting Nvidia stock prices.
 tags:
