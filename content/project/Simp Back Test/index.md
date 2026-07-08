@@ -14,7 +14,7 @@ date: '2025-12-30'
 external_link: ''
 
 image:
-  caption: Cover of our presentation
+  caption: Report Demo
   focal_point: Smart
 
 links:
