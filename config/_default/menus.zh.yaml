@@ -1,0 +1,16 @@
+main:
+  - name: 主页
+    url: /
+    weight: 10
+  - name: 工作经历
+    url: experience/
+    weight: 20
+  - name: 个人项目
+    url: projects/
+    weight: 30
+  - name: 我的日程
+    url: schedule/
+    weight: 40
+  - name: 我的公钥
+    url: keys/
+    weight: 50

@@ -5,6 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="generator" content="Hugo Blox Builder {{ site.Data.hugoblox.version }}" />
 
+  {{/* Browser language auto-detection and redirect */}}
+  {{ partial "language-redirect.html" . }}
+
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
   {{ partial "functions/get_hook" (dict "hook" "head-start" "context" .) }}
 

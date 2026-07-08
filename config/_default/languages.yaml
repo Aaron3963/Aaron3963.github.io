@@ -6,17 +6,46 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  params:
+    locale:
+      date_format: 'Jan 2, 2006'
+      time_format: '3:04 PM'
+    footer:
+      copyright:
+        notice: '© {year} Xueyan Shi. This work is licensed under {license}'
+        license:
+          enable: true
+          allow_derivatives: false
+          share_alike: true
+          allow_commercial: false
+
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  params:
+    locale:
+      date_format: '2006年1月2日'
+      time_format: '15:04'
+    footer:
+      copyright:
+        notice: '© {year} 石雪岩 | 本网站根据 {license} 许可证授权'
+        license:
+          enable: true
+          allow_derivatives: false
+          share_alike: true
+          allow_commercial: false
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
-#  contentDir: content/zh
+
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# menu:
+#   main:
+#     - name: 传
+#       url: '/'
+#       weight: 1

@@ -1,0 +1,42 @@
+{{- /* Browser language auto-detection and redirect */ -}}
+<script>
+  (function() {
+    var STORAGE_KEY = 'hb-lang';
+    var currentLang = '{{ site.Language.Lang }}';
+    var stored = localStorage.getItem(STORAGE_KEY);
+
+    {{- if .IsHome }}
+    // Only auto-detect/redirect once per browser session.
+    // After that, manual language switches are left alone.
+    if (!sessionStorage.getItem('hb-lang-checked')) {
+      sessionStorage.setItem('hb-lang-checked', '1');
+
+      // User has a stored preference that doesn't match the current page
+      if (stored && stored !== currentLang) {
+        window.location.href = stored === 'zh' ? '/zh/' : '/';
+        return;
+      }
+
+      // First visit ever — detect from browser language
+      if (!stored) {
+        var browserLang = (
+          navigator.languages ? navigator.languages[0] : (navigator.language || '')
+        ).split('-')[0].toLowerCase();
+
+        if (browserLang === 'zh' && currentLang !== 'zh') {
+          window.location.href = '/zh/';
+          return;
+        }
+        if (browserLang !== 'zh' && currentLang === 'zh') {
+          window.location.href = '/';
+          return;
+        }
+      }
+    }
+    {{- end }}
+
+    // Persist the current language as the user's preference (every page).
+    // If the user manually switched, this records their new choice for next session.
+    localStorage.setItem(STORAGE_KEY, currentLang);
+  })();
+</script>

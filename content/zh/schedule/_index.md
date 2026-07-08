@@ -1,0 +1,5 @@
+---
+title: "我的日程表"
+---
+你也可以在[新的标签页](https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=WEEK&title=Aaron's%20Schedule&src=YWFyb242NjY0NUBnbWFpbC5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=emgtY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043&color=%23c0ca33)以全屏浏览我的日程。
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=WEEK&title=Aaron's%20Schedule&src=YWFyb242NjY0NUBnbWFpbC5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=emgtY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043&color=%23c0ca33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
