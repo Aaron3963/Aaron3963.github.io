@@ -14,12 +14,28 @@
 <div class="group cursor-pointer">
 
   {{ with $resource }}
-  {{ $image := "" }}
-  {{if $fill_image}}
-    {{ $image = .Fill (printf "960x540 %s" $anchor) }}
-  {{else}}
-    {{ $image = .Fit (printf "960x540 %s" $anchor) }}
-  {{end}}
+  {{ $image := . }}
+  {{ $imgW := float $image.Width }}
+  {{ $imgH := float $image.Height }}
+  {{ $targetRatio := div 16.0 9.0 }}
+  {{ $imgRatio := div $imgW $imgH }}
+  {{ if gt $imgRatio $targetRatio }}
+    {{/* Image is wider than 16:9 — crop the width */}}
+    {{ $cropW := math.Round (mul $imgH $targetRatio) }}
+    {{ if $fill_image }}
+      {{ $image = $image.Crop (printf "%.0fx%.0f %s" $cropW $imgH $anchor) }}
+    {{ else }}
+      {{ $image = $image.Fit (printf "%.0fx%.0f %s" $cropW $imgH $anchor) }}
+    {{ end }}
+  {{ else }}
+    {{/* Image is taller (or equal) than 16:9 — crop the height */}}
+    {{ $cropH := math.Round (div $imgW $targetRatio) }}
+    {{ if $fill_image }}
+      {{ $image = $image.Crop (printf "%.0fx%.0f %s" $imgW $cropH $anchor) }}
+    {{ else }}
+      {{ $image = $image.Fit (printf "%.0fx%.0f %s" $imgW $cropH $anchor) }}
+    {{ end }}
+  {{ end }}
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
   <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
 
